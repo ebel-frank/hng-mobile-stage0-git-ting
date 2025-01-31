@@ -19,7 +19,7 @@ A simple mobile app built using Flutter for the HNG MOBILE-DESKTOP STAGE 0 TASK.
 
 ## Demo
 Test the app directly on Appetize.io:
-👉 [HNG Mobile App on Appetize](https://appetize.io/app/)
+👉 [HNG Mobile App on Appetize](https://appetize.io/app/b_7lgi7lcj7erxx5hrbtar2y7v6q)
 
 ## License
 
